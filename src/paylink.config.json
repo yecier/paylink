@@ -2,50 +2,52 @@
   "theme": "night",
 
   "properties": {
-    "name": "Daniel Castillo",
-    "description": "Frontend web developer, engineer and tireless creator. Building products that make developers happy.",
-    "alt": "Photo of Daniel Castillo",
-    "hero": "./images/daniel-castillo.png"
+    "name": "Enrique Yecier",
+    "description": "Bitcoin, crypto, evolving human being...",
+    "alt": "Photo of Enrique Yecier",
+    "hero": "./images/yecier_400x400.jpg"
   },
 
   "Social": [
     {
-      "label": "Email",
-      "value": "bx-envelope",
-      "link": "mailto:dlcastillo3015@gmail.com"
-    },
-    { "label": "Link", "value": "bx-link", "link": "https://dlcastillop.com" },
+      "label": "Email", "value": "bx-envelope", "link": "" },
+    { "label": "Link", "value": "bx-link", "link": "https://peakd.com/@yecier" },
     {
       "label": "GitHub",
       "value": "bxl-github",
-      "link": "https://github.com/dlcastillop"
+      "link": ""
     },
     {
       "label": "Twitter",
       "value": "bxl-twitter",
-      "link": "https://twitter.com/dlcastillop"
+      "link": "https://twitter.com/EnriqueYecier"
     },
     {
       "label": "LinkedIn",
       "value": "bxl-linkedin",
-      "link": "https://linkedin.com/in/dlcastillop"
+      "link": ""
     },
     {
       "label": "Instagram",
       "value": "bxl-instagram",
-      "link": "https://instagram.com/dlcastillop"
+      "link": "https://www.instagram.com/enriqueyecier/"
     },
+    { "label": "Telegram",
+      "value": "bxl-telegram",
+      "link": "https://t.me/yecier"
+    },
+    { "label": "YouTube",
+      "value": "bxl-youtube",
+      "link": "https://www.youtube.com/channel/UC0K6kSs16jXwRpn0LCfKFjg?sub_confirmation=1" },
     { "label": "Discord", "value": "bxl-discord", "link": "" },
     { "label": "Facebook", "value": "bxl-facebook", "link": "" },
     { "label": "Medium", "value": "bxl-medium", "link": "" },
     { "label": "Pinterest", "value": "bxl-pinterest", "link": "" },
     { "label": "Snapchat", "value": "bxl-snapchat", "link": "" },
-    { "label": "Telegram", "value": "bxl-telegram", "link": "" },
     { "label": "TikTok", "value": "bxl-tiktok", "link": "" },
     { "label": "Twitch", "value": "bxl-twitch", "link": "" },
     { "label": "Vimeo", "value": "bxl-vimeo", "link": "" },
     { "label": "WhatsApp", "value": "bxl-whatsapp", "link": "" },
-    { "label": "YouTube", "value": "bxl-youtube", "link": "" },
     { "label": "Product Hunt", "value": "bxl-product-hunt", "link": "" },
     { "label": "Newsletter", "value": "bx-mail-send", "link": "" }
   ],
@@ -54,14 +56,14 @@
     {
       "id": "btc",
       "label": "Bitcoin",
-      "value": "bc1qejahgjmqnmyrw7jvn0d7evfdq6ssjl3wq7hfle",
+      "value": "1KuZVEUN6uJyWKqwDvggJL1xJsTcJkbwRb",
       "img": "./images/payments/btc.svg"
     },
     {
-      "id": "busd",
-      "label": "BinanceUSD",
-      "value": "",
-      "img": "./images/payments/busd.svg"
+      "id": "bch",
+      "label": "Bitcoin Cash",
+      "value": "qq6rtawq6kapxk5e5yusufflmgf7sjdrfv882ds9se",
+      "img": "./images/payments/bch.png"
     },
     {
       "id": "matic",
@@ -78,7 +80,7 @@
     {
       "id": "eth",
       "label": "Ethereum",
-      "value": "0x59C864f658caD68A19a97499755080c056079988",
+      "value": "0x410B744906c4fB3f1BfcD106462E9411d83615AE",
       "img": "./images/payments/eth.svg"
     },
     {
@@ -96,7 +98,7 @@
     {
       "id": "usdt",
       "label": "USDT (TRC20)",
-      "value": "TFPqkDJaqdHxp5UiNoEvTPj7DJwkuX4A7r",
+      "value": "",
       "img": "./images/payments/usdt.svg"
     },
     {
@@ -113,26 +115,32 @@
     },
     {
       "id": "trx",
-      "label": "Tron",
-      "value": "TFPqkDJaqdHxp5UiNoEvTPj7DJwkuX4A7r",
+      "label": "USDT TRC20 - TRX",
+      "value": "TEcV3d8jsm4C7Ugk7jZQjkishMauRTBzTg",
       "img": "./images/payments/trx.svg"
     },
     {
       "id": "qvapay",
       "label": "QvaPay",
-      "value": "https://qvapay.com/payme/dlcastillop",
+      "value": "https://qvapay.com/payme/yecier18",
       "img": "./images/payments/qvapay.svg"
     },
     {
-      "id": "xrp",
-      "label": "XRP",
-      "value": "",
-      "img": "./images/payments/xrp.svg"
+      "id": "hive",
+      "label": "Hive",
+      "value": "yecier",
+      "img": "./images/payments/hive.png"
     },
     {
       "id": "card",
-      "label": "Card",
-      "value": "",
+      "label": "Tarjeta MLC",
+      "value": "9225 0699 9246 4375",
+      "img": "./images/payments/card.svg"
+    },
+    {
+      "id": "card",
+      "label": "Tarjeta CUP",
+      "value": "9224 0699 9072 1256",
       "img": "./images/payments/card.svg"
     }
   ],
