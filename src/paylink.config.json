@@ -60,6 +60,12 @@
       "img": "./images/payments/btc.svg"
     },
     {
+      "id": "btcln",
+      "label": "Bitcoin Lightning Network",
+      "value": "nineoffice33@walletofsatoshi.com",
+      "img": "./images/payments/509px-Bitcoin_over_Lightning_Network.svg.png"
+    },
+    {
       "id": "bch",
       "label": "Bitcoin Cash",
       "value": "qq6rtawq6kapxk5e5yusufflmgf7sjdrfv882ds9se",
@@ -76,12 +82,6 @@
       "label": "DogeCoin",
       "value": "",
       "img": "./images/payments/doge.svg"
-    },
-    {
-      "id": "eth",
-      "label": "Ethereum",
-      "value": "0x410B744906c4fB3f1BfcD106462E9411d83615AE",
-      "img": "./images/payments/eth.svg"
     },
     {
       "id": "ltc",
@@ -136,7 +136,13 @@
       "label": "Tarjeta CUP",
       "value": "9224 0699 9072 1256",
       "img": "./images/payments/card.svg"
-    }
+    },
+    {
+      "id": "eth",
+      "label": "Ethereum",
+      "value": "0x410B744906c4fB3f1BfcD106462E9411d83615AE",
+      "img": "./images/payments/eth.svg"
+    } 
   ],
 
   "googleAnalyticsId": "G-SOMEID"
