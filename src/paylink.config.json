@@ -95,13 +95,7 @@
       "value": "",
       "img": "./images/payments/paypal.svg"
     },
-    {
-      "id": "usdt",
-      "label": "USDT (TRC20)",
-      "value": "",
-      "img": "./images/payments/tron-usdt.png"
-    },
-    {
+        {
       "id": "sol",
       "label": "Solana",
       "value": "",
@@ -117,7 +111,7 @@
       "id": "trx",
       "label": "USDT TRC20 - TRX",
       "value": "TEcV3d8jsm4C7Ugk7jZQjkishMauRTBzTg",
-      "img": "./images/payments/trx.svg"
+      "img": "./images/payments/tron-usdt.png"
     },
     {
       "id": "qvapay",
