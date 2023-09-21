@@ -99,7 +99,7 @@
       "id": "usdt",
       "label": "USDT (TRC20)",
       "value": "",
-      "img": "./images/payments/usdt.svg"
+      "img": "./images/payments/tron-usdt.png"
     },
     {
       "id": "sol",
